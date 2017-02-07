@@ -92,12 +92,12 @@ Time | Day 1                                      | Day 2                       
 
 #### Week 2 — Languages
 
-Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
------ |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Merge Sort (IT)][5-1A] | [Presentations][5-2A]  | [ngHangman (IT)][5-3A] | [$http U/D (JW)][5-4A] | [Routing (JW)][5-5A]
- **10:45am Module 2** | [P1][5-1B] | [Presentations][5-2B]  | [ngHangman (IT)][5-3B] | [$http U/D (JW)][5-4B] | [Routing (JW)][5-5B]
-**1:15pm Module 3** |[P1][5-1C]| Intro Angular [lecture][5-2CA] & [lab][5-2CB] (NA)  | [$http C/R (NA)][5-3C] | [Outcomes][5-4C] | [Book App (IT)][5-5C]
-**3:00pm Module 4** | [P1][5-1D] |  [Tunely-Angular Sprint#1 (NA)][5-2D]|  [$http C/R (NA)][5-3D]|  [Review (IT)][5-4D]| [Book App (IT)][5-5D]
+Time | Day 1 | Day 2 | Day 3| Day 4                                     
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------  
+**9:00am Module 1** | [Merge Sort (IT)][5-1A] | [Presentations][5-2A]  | [ngHangman (IT)][5-3A] | [$http U/D (JW)][5-4A] 
+ **10:45am Module 2** | [P1][5-1B] | [Presentations][5-2B]  | [ngHangman (IT)][5-3B] | [$http U/D (JW)][5-4B] 
+**1:15pm Module 3** |[P1][5-1C]| Intro Angular [lecture][5-2CA] & [lab][5-2CB] (NA)  | [$http C/R (NA)][5-3C] | [Outcomes][5-4C] 
+**3:00pm Module 4** | [P1][5-1D] |  [Tunely-Angular Sprint#1 (NA)][5-2D]|  [$http C/R (NA)][5-3D]|  [Review (IT)][5-4D]
 **Training** | P1 | Training | Training | [Codeschool][5-4E] or [Codewars][5-4F] JS exercises | Weekend MVP
 
 [5-1A]: https://github.com/sf-wdi-gaia/merge-sort "..."
@@ -122,12 +122,6 @@ Time | Day 1                                      | Day 2                       
 [5-4D]: # "..."
 [5-4E]: https://www.codeschool.com/courses/shaping-up-with-angular-js "..."
 [5-4F]: https://www.codewars.com "..."
-
-[5-5A]: https://github.com/sf-wdi-gaia/angular-routing "..."
-[5-5B]: https://github.com/sf-wdi-gaia/tunely-angular/blob/master/docs/sprint4.md "..."
-[5-5C]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
-[5-5D]: https://github.com/sf-wdi-gaia/angular-books-crud-lab "..."
-
 
 #### Week 3 — Algorithms
 
