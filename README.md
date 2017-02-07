@@ -15,8 +15,8 @@ Time | Monday | Tuesday | Wednesday | Thursday
 
 #### Week 0 - Fundamentals
 
- Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                |                                   |
------ | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     
+ Time | Day 1 | Day 2 | Day 3 | Day 4                                                                           
+----- | -------- | -------------------------------- | ------------------------------------ | ------------------------------------     
  **9:00am Module 1** | Labor Day |  Orientation                 |  [CSS Box Model and Positioning (Ben)][1-2A]    | [Functions and scope (Alex)][1-3C]  
  **10:45am Module 2** | Labor Day |   Icebreakers               |  [Lab: CSS Site Replication (Ben)][1-2B]  |  [Functions Lab(Alex)][1-3D] 
  **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes 
