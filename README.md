@@ -125,13 +125,13 @@ Time | Day 1 | Day 2 | Day 3| Day 4
 
 #### Week 3 — Algorithms
 
-Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
------ |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Tune.ly][4-1A] | [Tune.ly][4-2A] | [Binary Search (NA)][4-3A] | [Big O (IT)][4-4A] | [Bubble Sort (NA)][4-5A]
- **10:45am Module 2** | [Tune.ly][4-1B] | [Tune.ly][4-2B] | [P2][4-3B] | [P2][4-4B] | [P2][4-5B]
-**1:15pm Module 3** |[Tune.ly][4-1C] | [Project 2 Intro (NA)][4-2C] | [Github Workflow][4-3C] | [P2][4-4C] | [P2][4-5C]
-**3:00pm Module 4** | [Tune.ly][4-1D] | [Project 2 Approvals][4-2D] | [P2][4-3D] | [P2][4-4D] | [P2][4-5D]
-**Training** | Tune.ly | P2 | P2 | P2 | P2
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------
+**9:00am Module 1** | [Tune.ly][4-1A] | [Tune.ly][4-2A] | [Binary Search (NA)][4-3A] | [Big O (IT)][4-4A] 
+ **10:45am Module 2** | [Tune.ly][4-1B] | [Tune.ly][4-2B] | [P2][4-3B] | [P2][4-4B] 
+**1:15pm Module 3** |[Tune.ly][4-1C] | [Project 2 Intro (NA)][4-2C] | [Github Workflow][4-3C] | [P2][4-4C] 
+**3:00pm Module 4** | [Tune.ly][4-1D] | [Project 2 Approvals][4-2D] | [P2][4-3D] | [P2][4-4D] 
+**Training** | Tune.ly | P2 | P2 | P2 
 
 [4-1A]: https://github.com/sf-wdi-gaia/tunely "..."
 [4-1B]: # "..."
@@ -152,13 +152,6 @@ Time | Day 1                                      | Day 2                       
 [4-4B]: # "..."
 [4-4C]: # "..."
 [4-4D]: # "..."
-
-[4-5A]: https://github.com/sf-wdi-gaia/bubble-sort "Bubba Sort"
-[4-5B]: # "..."
-[4-5C]: # "..."
-[4-5D]: # "..."
-[4-5E]: # "..."
-[4-5F]: # "..."
 
 #### Week 4 — Server-side
 
