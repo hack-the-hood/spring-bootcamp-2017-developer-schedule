@@ -21,7 +21,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
  **10:45am Module 2** | Labor Day |   Icebreakers               |  [Lab: CSS Site Replication (Ben)][1-2B]  |  [Functions Lab(Alex)][1-3D] 
  **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes 
 **3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  |   [JS Objects(Ben)][1-2D] |  [DOM Manipulation(Alex)][1-4C]        
-**Training**                | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-1F] |  [Lab: JS Control Flow(Ben)][1-2E]  + Finish Labs   | [LOTR DOM Manipulation Lab(Alex)][1-4D]  
+**Training**                | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-1F] |  [Lab: JS Control Flow(Ben)][1-2E]  + Finish Labs   
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
