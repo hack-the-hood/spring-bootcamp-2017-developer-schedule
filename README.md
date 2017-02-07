@@ -15,13 +15,13 @@ Time | Monday | Tuesday | Wednesday | Thursday
 
 #### Week 0 - Fundamentals
 
- Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
------ | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | Labor Day |  Orientation                 |  [CSS Box Model and Positioning (Ben)][1-2A]    | [Functions and scope (Alex)][1-3C]  | Assessment (Ilias)
- **10:45am Module 2** | Labor Day |   Icebreakers               |  [Lab: CSS Site Replication (Ben)][1-2B]  |  [Functions Lab(Alex)][1-3D] | Review (Ilias)
- **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes  | [Chrome Dev Tools and Debugger(Ben)][1-4A]
-**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  |   [JS Objects(Ben)][1-2D] |  [DOM Manipulation(Alex)][1-4C]  | [Weekend Lab: JS Racer (Alex) ][1-4E]       
-**Training**                | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-1F] |  [Lab: JS Control Flow(Ben)][1-2E]  + Finish Labs   | [LOTR DOM Manipulation Lab(Alex)][1-4D]  | JS Racer
+ Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                |                                   |
+----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     
+ **9:00am Module 1** | Labor Day |  Orientation                 |  [CSS Box Model and Positioning (Ben)][1-2A]    | [Functions and scope (Alex)][1-3C]  
+ **10:45am Module 2** | Labor Day |   Icebreakers               |  [Lab: CSS Site Replication (Ben)][1-2B]  |  [Functions Lab(Alex)][1-3D] 
+ **1:15pm Module 3** | Labor Day  |  [How the internet works (Ilias)][1-1C]  |   [JavaScript DataTypes(Ben)][1-2C] | Outcomes 
+**3:00pm Module 4** | Labor Day | [Navigating the file system + some meta skills (Alex)][1-1D]  |   [JS Objects(Ben)][1-2D] |  [DOM Manipulation(Alex)][1-4C]        
+**Training**                | Labor Day | [Command Line Murder Mystery (Alex)][1-1E] + [CSS Selector Basics (Review)][1-1F] |  [Lab: JS Control Flow(Ben)][1-2E]  + Finish Labs   | [LOTR DOM Manipulation Lab(Alex)][1-4D]  
 
 [1-1C]: https://github.com/sf-wdi-gaia/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-gaia/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
@@ -52,7 +52,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 
 #### Week 1 — Intro to programming
 
-Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:00am Module 1** | [Intro Ruby (JW)][6-1A] | [RSpec (IT)][6-2A]  | [The Dream (IT)][6-3A] | Review (NA) | [SQL Queries & psql (NA)][6-5A]
  **10:45am Module 2** | [Intro Ruby (JW)][6-1B] | [RSpec (IT)][6-2B]  | [Cipher (IT)][6-3B] | Review (NA) | [Carmen Sandiego Lab][6-5B]
