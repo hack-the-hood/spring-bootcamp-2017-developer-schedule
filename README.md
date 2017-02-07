@@ -4,13 +4,13 @@ developer curriculum
 #### Daily Schedule Overview
 
 Time | Monday | Tuesday | Wednesday | Thursday
------ | ------------------ | ----- | ----
-9:00 - 10:30  | Module 1   | Module 1     | Review |
-10:45 - 12:15| Module 2   | Module 2     | Review |
-12:15 - 1:15 | Lunch         | Lunch          | Lunch |
-1:15 - 2:45 | Module 3      | Outcomes   | Review |
-3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab |
-4:30 - 5:00 | One-on-ones   | One-on-ones | Rest |
+----- | ------------------ | ----- | ---- | ----
+9:00 - 10:30  | Module 1   | Module 1     | Review | blah
+10:45 - 12:15| Module 2   | Module 2     | Review | blah
+12:15 - 1:15 | Lunch         | Lunch          | Lunch | blah
+1:15 - 2:45 | Module 3      | Outcomes   | Review | blah
+3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab | blah
+4:30 - 5:00 | One-on-ones   | One-on-ones | Rest | | blah
 
 
 #### Week 0 - Fundamentals
