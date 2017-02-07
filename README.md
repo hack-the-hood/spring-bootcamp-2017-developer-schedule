@@ -1,6 +1,18 @@
 # spring-bootcamp-2017-developer-schedule
 developer curriculum
 
+#### Daily Schedule Overview
+
+Time | Monday | Tuesday | Wednesday | Thursday
+----- | ------------------ | ----- | ----
+9:00 - 10:30  | Module 1   | Module 1     | Review |
+10:45 - 12:15| Module 2   | Module 2     | Review |
+12:15 - 1:15 | Lunch         | Lunch          | Lunch |
+1:15 - 2:45 | Module 3      | Outcomes   | Review |
+3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab |
+4:30 - 5:00 | One-on-ones   | One-on-ones | Rest |
+
+
 #### Week 0 - Fundamentals
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
@@ -37,17 +49,6 @@ developer curriculum
 [1-4F]: https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-01.md "questions in a hat"
 
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
-
-#### Daily Schedule Overview
-
-Time | Monday - Wednesday  | Thursday | Friday
------ | ------------------ | ----- | ----
-9:00 - 10:30  | Module 1   | Module 1     | Review
-10:45 - 12:15| Module 2   | Module 2     | Review
-12:15 - 1:15 | Lunch         | Lunch          | Lunch
-1:15 - 2:45 | Module 3      | Outcomes   | Review
-3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab
-4:30 - 5:00 | One-on-ones   | One-on-ones | Rest
 
 #### Week 1 — Intro to programming
 
@@ -167,13 +168,13 @@ Time | Day 1                                      | Day 2                       
 
 #### Week 4 — Server-side
 
-Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
------ |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:00am Module 1** | [Science Fair (NA)][3-1A] | [Routes & Params (IT)][3-2A]  | [Mongo][3-3A-1] / [Mongoose][3-3A-2] (IT) | [Agile (IT)][3-4A] | Assessment
- **10:45am Module 2** | [Code Review (NA)][3-1B] | [Routes & Params Training (IT)][3-2B]  | [Book App pt 1 (IT)][3-3B] | [TDD (IT)][3-4B] | Review
-**1:15pm Module 3** |[Node (IT)][3-1C]| [Todo API (NA)][3-2C]  | [Associations (NA)][3-3C] | [UX Design (Billie)][3-4C]  | [Personal API][3-5C]
-**3:00pm Module 4** | [Express (IT)][3-1D] |  [Todo API (NA)][3-2D]|  [Book App pt 2-3 (NA)][3-3D]|  [Live Code - Express Review (NA)][3-4D]| [Personal API][3-5D]
-**Training** | Training | Training | Training | Training | Training
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                 
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------
+**9:00am Module 1** | [Science Fair (NA)][3-1A] | [Routes & Params (IT)][3-2A]  | [Mongo][3-3A-1] / [Mongoose][3-3A-2] (IT) | [Agile (IT)][3-4A] 
+ **10:45am Module 2** | [Code Review (NA)][3-1B] | [Routes & Params Training (IT)][3-2B]  | [Book App pt 1 (IT)][3-3B] | [TDD (IT)][3-4B] 
+**1:15pm Module 3** |[Node (IT)][3-1C]| [Todo API (NA)][3-2C]  | [Associations (NA)][3-3C] | [UX Design (Billie)][3-4C]  
+**3:00pm Module 4** | [Express (IT)][3-1D] |  [Todo API (NA)][3-2D]|  [Book App pt 2-3 (NA)][3-3D]|  [Live Code - Express Review (NA)][3-4D]
+**Training** | Training | Training | Training | Training
 
 [3-1A]: # "..."
 [3-1B]: https://github.com/sf-wdi-gaia/game-code-review "Game Code Review"
@@ -195,23 +196,16 @@ Time | Day 1                                      | Day 2                       
 [3-4B]: https://github.com/sf-wdi-gaia/tdd-jasmine "..."
 [3-4C]: https://github.com/sf-wdi-gaia/UX-Design-Intro "..."
 [3-4D]: https://github.com/sf-wdi-gaia/nathan-express-live-code/commits/master "Live Code (Express Review)"
-
-[3-5A]: # "..."
-[3-5B]: # "..."
-[3-5C]: https://github.com/sf-wdi-gaia/express-personal-api "Personal API"
-[3-5D]: https://github.com/sf-wdi-gaia/express-personal-api "Personal API"
-[3-5E]: # "..."
-[3-5F]: # "..."
  
 #### Week 5 - JavaScript & Client-side Libraries
 
-Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
------ |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [HTML Forms (Ilias)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OO JS(Ilias)][2-4A]     | Assessment (Ilias)
- **10:45am Module 2** |[Git and GitHub (Alex)][2-1B]      |   [Responsive CSS (Ilias)][2-2B]  |    [Handlebars Templating (Ilias)][2-3B]  |    [OO JS(Ilias)][2-4B]    | Review (Ilias)
-**1:15pm Module 3** |[Callbacks & Iterators (Ben)][2-1C]         |  [jQuery DOM (Ben)][2-2C] [Browser Storage][2-2D] |    [Geoquakes Lab (Nathan)][2-3C]     |  Outcomes     | Culture Building (Alex)
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |  [jQuery Datepicker Lab (Ben)][2-2E]   | [Geoquakes Lab Cont'd (Nathan)][2-3C] |  [OO Racer (Nathan)][2-4C]  | [Project 0 Intro (Nathan)][2-5C]
-**Training** |[Building Iterators (Ben)][2-1E] | [More Mockups!][2-2F]  |  [OOP Prep (Video)][2-3E]  Finish Geoquakes Lab | [OO Racer cont'd (Nathan)][2-4C] | [Project 0 Prework (Nathan)][2-5E]
+Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                    
+----- |--------------------------------           | ------------------------------------ | ------------------------------------       | --------------------------------------- 
+ **9:00am Module 1** | [Whiteboarding (Alex)][2-1A] |      [HTML Forms (Ilias)][2-2A]                |  [AJAX & API's with jQuery (Ilias)][2-3A]   |  [OO JS(Ilias)][2-4A] 
+ **10:45am Module 2** |[Git and GitHub (Alex)][2-1B]      |   [Responsive CSS (Ilias)][2-2B]  |    [Handlebars Templating (Ilias)][2-3B]  |    [OO JS(Ilias)][2-4B] 
+**1:15pm Module 3** |[Callbacks & Iterators (Ben)][2-1C]         |  [jQuery DOM (Ben)][2-2C] [Browser Storage][2-2D] |    [Geoquakes Lab (Nathan)][2-3C]     |  Outcomes     
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ben)][2-1D]    |  [jQuery Datepicker Lab (Ben)][2-2E]   | [Geoquakes Lab Cont'd (Nathan)][2-3C] |  [OO Racer (Nathan)][2-4C]  
+**Training** |[Building Iterators (Ben)][2-1E] | [More Mockups!][2-2F]  |  [OOP Prep (Video)][2-3E]  Finish Geoquakes Lab | [OO Racer cont'd (Nathan)][2-4C] | 
 
 
 [2-1A]: https://github.com/sf-wdi-gaia/whiteboarding "Whiteboarding"
@@ -247,9 +241,7 @@ Time |Day 1                                      | Day 2                        
 [2-5B]: # "Questions in a Hat"
 <!-- https://github.com/sf-wdi-gaia/questions-in-a-hat/blob/master/week-02.md -->
 
-[2-5C]: https://github.com/sf-wdi-gaia/project-1 "Project 0"
-[2-5D]: # "Create an Issue"
-[2-5E]: https://github.com/sf-wdi-gaia/project-1 "Weekend Lab"
+
 
 
 
