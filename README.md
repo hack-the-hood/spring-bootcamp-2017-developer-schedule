@@ -4,9 +4,12 @@
 827 Broadway Ave, Suite 200, Oakland CA
 
 #### Dates and Times
-Monday - Thursday 9am - 4pm
-Optional Extended Development Camp 4pm - 5pm
-February 13th, 2017 - March 24th, 2017
+
++Monday - Thursday 9am - 4pm
+
++Optional Extended Development Camp 4pm - 5pm
+
++February 13th, 2017 - March 24th, 2017
 
 #### Daily Schedule Overview
 
