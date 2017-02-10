@@ -1,5 +1,12 @@
 # Spring Bootcamp Schedule
 
+#### Location 
+827 Broadway Ave, Suite 200, Oakland CA
+
+#### Dates and Times
+Monday - Thursday 9am - 4pm
+Optional Extended Development Camp 4pm - 5pm
+February 13th, 2017 - March 24th, 2017
 
 #### Daily Schedule Overview
 
@@ -12,10 +19,16 @@ Time        | Monday     | Tuesday      | Wednesday    | Thursday
 9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
 9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
 
+#### Your Instructors
 
+Instructor             | Monday     | Tuesday      | Wednesday    | Thursday
+----                   | ---------- | -----        | ----         | ----
+Max (Lead Instructor)  | All Day    | All Day      | All Day      | All Day 
+Leo (Junior Instructor)| All Day    | All Day      | All Day      | All Day 
+Dante (Tech Fellow)    | All Day    | 9:00 - 12:00 | N/A          | All Day
+Alivia (Tech Fellow)   | 10:30 - 5  | All Day      |  10:30 - 5   | All Day
 
-
-#### Week 1 - Introduction To LinkedIn
+#### Week 1 - Welcome, Introduction and Onboarding
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
 **9:00AM** |[Create LinkedIn][1-1A]| [Add Personal Info][1-1B]| [The Dream (IT)][1-1C] | [Company Presence][1-1D] | 
@@ -43,7 +56,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [1-4C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
 [1-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
-#### Week 2 — Parsing Through Company Info
+#### Week 2 — An Introduction to HTML / CSS
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
 **9:00AM** |[Create LinkedIn][2-1A]| [Add Personal Info][2-1B]| [The Dream (IT)][2-1C] | [Company Presence][2-1D] | 
@@ -72,7 +85,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [2-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
 
-#### Week 3 — Dissecting A Job Posting
+#### Week 3 — Going Deep With Weebly
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
@@ -102,7 +115,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [3-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
 
-#### Week 4 — Refining Your Online Presence
+#### Week 4 — Consultations Begin With Small Business Owners
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
@@ -132,7 +145,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [4-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
  
-#### Week 5 - Networking and Building Personal Relationships
+#### Week 5 - Building Out Your Small Business Owner Website
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
@@ -162,7 +175,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [5-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
 
-#### Week 6 - Getting More Resources
+#### Week 6 - Wrapping up and Closing Out and Graduation
 
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
