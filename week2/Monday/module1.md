@@ -1,76 +1,101 @@
-Mic Check
+Social Entrepreneurship 101
 
-Learning Objectives: Learn techniques for public speaking with confidence and professionalism.
+Lesson Title: Social Entrepreneurship 101
 
-Materials: Projector. 
+Understanding Goal: What is Social Entrepreneurship and and how do I create a business that takes into consideration by passions, skills and interests, benefits the greater community and makes money?
 
-Time Length: 75 minutes
+Objective: To have youth create a diagram to formulate passion based business 
+Estimated Length:  
+Materials, Supplies, Equipment, References Needed: Paper, Computer, Venn Diagram Sheet
+ 
+Warm-Up
+Instructor Note: Ask group about different businesses they frequent? Are these businesses, corporations, are they franchises, are they small businesses, non profit? 
 
-Vocabulary
-Eloquent - adjective Fluent or persuasive in speaking or writing
-Anecdote - noun A short and interesting story about a real person or thing
-Glossophobia - noun The fear of speaking in public or speaking in general
+Explain to students that the “old paradigm” of business only cared about its bottom line aka profit but the “new paradigm” is the triple bottom line.
+Show slide 6
+Explain to students that people who run triple bottom line companies are called Social Entrepreneurs. As a member of Hack the Hood  they are all Social Entrepreneurs.
+Case Studies
+Walmart
+Walmart is the world's largest company by revenue, according to the Fortune Global 500 list in 2014, the biggest private employer in the world with over two million employees, and the largest retailer in the world.
 
-Introduction
-Raise your hand if you were ever afraid or insecure when speaking publicly. 
-That is a common feeling, but one that you can work to overcome. Even if you aren’t nervous about public speaking it can be hard to create a clear structure to your speech. Public speaking is important because great public speaking can allow your audience to 
-Let’s practice and study some ways to get better at this skill. Being able to present your thoughts eloquently will help your education, career, and personal life.
+People:
+The majority of Walmart workers are denied full time employment, make less than $25,000 a year and do not receive health insurance. In the Fall of 2014 over 2,000 Walmart stores signed a petition urging the company to adopt full time work schedules and a minimum hourly rate of $15 per hour.
+Planet:
+• Walmart makes big claims about greenhouse emissions but Wal Mart's greenhouse gas emissions are growing, not shrinking.
+• Its low-cost, low-quality products lead to more waste as they have to be replaced more frequently.
+• The Walmart PAC and the Walton Family Foundation fund projects that destroy the planet like the Keystone XL Tar Sands Pipeline.
 
-Introduce vocabulary and talk briefly about what we’ll cover in the module.
+Profit:
+$16 billion in annual profits. Its owners the Waltons are worth $150 billion are the richest family in the United States and make 8.6 million a day from Walmart dividends.
+ 
+Monsanto
+Monsanto Company is the  leading producer of genetically engineered GMO’s (genetically modified organisms)
+People: GMO’s have been linked to tumors, birth defects, cancer, autism, parkinson's and alzheimer's disease. Over the last 10 years the company has spent over $52 million making sure that GMO foods aren’t labeled in the United States and abroad. In March of 2014 protesters in 436 cities and 52 countries participated in the March on Monsanto to challenge the companies business practices
+Planet: Monsanto’s products have been linked to environmental pollution that contributes to dead zones in the ocean and the mass killing of bees
+Profit: $58 billion
 
-Warm up Exercise (10 minutes)
-This exercise will illustrate that how we speak can be as important as what we’re saying. Ask for a young person to join the instructor to demonstrate the exercise. Introduce yourself with the following prompt while trying to express a distinct emotion. Their partner must introduce themselves while reflecting the emotional expression of their partner. If the first person is angry in their introduction the partner must also be angry. Demonstrate the exercise once and have all students practice with a partner.
 
-Hello [partner name], my name is [youth’s name] and I am a [writer, artist, student, etc.]
+Apple Inc. is an American multinational corporation headquartered in Cupertino, California, is the world's second-largest information technology company by revenue after Samsung Electronics, and the world's third-largest mobile phone maker. On November 25, 2014, in addition to being the largest publicly traded corporation in the world by market capitalization, Apple became the first U.S. company to be valued at over $700B.
+ 
+People: For optimal profit margin Apple must produce the iPhones for cheap. Since Apple only uses top quality electronic parts, the difference is made up in cheap labor. The NYT reports that workers at Foxconn, the former manufacturer of the iPhone, make $22 for a twelve hour shift, and are often forced to work even longer hours. There were so many suicides in the on-site dorms where the workers live that Foxconn had to install nets on the sides of the buildings.
+ 
+Planet: The iPhone and other Apple products have the conflict mineral Coltan in them. Coltan is heat resistant, and ideal for transmitting electric charges. This mineral is rare, expensive (a mine can be worth hundreds of millions of US dollars), and prevalent in war torn Congo. Since 1998, 5-7 million people have died in an ongoing civil war being fought, largely, over control of the mines. The mineral can be found in most electronics company’s products, but Apple is the world’s biggest and should start the trend of boycotting conflict minerals.
+ 
+Planet: In 2011 Apple was responsible for putting 23.1 metric tons of greenhouse gas emissions into the atmosphere. And while Apple says they’re working diligently to decrease their carbon footprint, their emissions rose 34% in 2012
+Profit: Stock valued at $597 billion as of 2014
 
-Discussion
-Filler words like Um, Uh, Well, Like, Basically, Actually, Literally, You know, I mean, and I guess usually don’t express anything and should be used as sparingly as possible. When a speaker uses these words too much they give the impression that they don’t know what they’re talking about or lack confidence.
+Kanye West: is an American rapper, producer, fashion designer and entrepreneur. His music and concerts have grossed millions of dollars worldwide, while currently his fashion and sneaker line known as YEEZY has received tremendous popularity as well. His most recent endeavor a launch of 21 worldwide pop up shops have received scrutiny for the high price tags, long lines, and low cost of production.
 
-Play Taylor Mali and Melissa Lozada-Oliva performance videos (6 minutes) and pause the videos at some points for discussion. Why did Taylor write this poem? How is he making his point? Why did Melissa wrote this poem in response to Taylor’s? What did you feel while watching these videos? Are there times when it would be inappropriate to use filler words in your speech? Situations when it would be appropriate? Do you ever feel frustrated that someone is trying to tell you the “correct” way of speaking? How important is it to be authentic, but also understood when speaking?
+People: 
 
-Guidelines
-The primary types of speech are as follows:
-Persuasive such as political speeches or advertising.
-Informative such as presenting research.
-Impromptu such as being called on in class or commenting during a meeting.
-Commemorative such as graduation, wedding, and other rites of passage speeches.
+Planet:
 
-Parts of an effective public speech
-Explain why you’re speaking if it is not obvious. Introduce yourself and break the ice.
-Be prepared. This includes knowing your audience. What do they already know about the subject? What do they need to know? What is the general mood? Use that to make your speech as appropriate as possible. Practice your speech in front of a mirror, on video, or with a friend to figure out what you can improve.
-Eye contact. Try to pick a few people in different areas of the room and look in their direction throughout your speech. Don’t stare at the ceiling, floor, your notes, or one individual.
-Use anecdotes and evidence to make your point. Research meaningful statistics or stories related to your subject. 
-Voice control and body language. Speak loudly enough for everyone in the room to hear you. Don’t use a monotonous tone. Turn nervous energy into movement. Hand gestures will help keep the audience interested and watching.
-End with strength. Conclude by summarizing your main point. Avoid trailing off or abruptly ending your speech. Ending a speech with “So, yeah” and similar phrases undermines the previous points you made.
+Profit: 
 
-Nervous? Remember to:
-Breathe. Take a deep breath before you begin and take pauses to breathe after complete statements.
-Bend your knees. The best standing posture is both feet flat on the floor at hip width apart, knees slightly bent, back straight, and shoulders relaxed.
-If you need to think, take a pause and do so. Introduce yourself or break the ice some other way in the beginning. While a pause might seem long to you, to the listening audience a few seconds of silence actually helps them focus on you and the content of your speech.
+Watch Social Entrepreneurship Video  
 
+Instructor Note: Ask group how many of you want to own your own business, and why? Divide youth into groups and give them each a Local Social Entrepreneurship Business to research. Have the groups answer the following questions below:
+Instructor Note: Give each youth a Local Business to research from below. Write questions below on the board for youth to answer.
+
+Red Bay Coffee
+
+ICA / Fund Good Jobs
+
+Homeboy Industries
+
+Indie Gogo
+
+See Word Reading 
+
+What product or service does your business offer?
+
+How long have they been in business?
+
+What makes this business unique?
+
+How does this business contribute to the idea of Social Entrepreneurship 
+
+ 
 Activity
-Part of being a successful professional is being able to speak in an impromptu manner. There will be times when you are suddenly asked your opinion on a subject or given an opportunity to speak like an expert. Take these opportunities so that you may grow into an even better public speaker. 
 
-Assign each student a topic from the list below as they take their turns doing a one minute impromptu speech.
-The best things in life are free. 
-My earliest, fondest memory using the internet is ________.
-One person can change the world.
-A person I admire is __________ because ___________.
-No one can be honest all the time.
-The key to being successful is _____________.
-Cities should provide free internet access to their citizens.
-My favorite thing about my hometown is __________.
-The most important invention of the 20th century was _______________.
-One law that this country should change is ________.
-The best album I ever heard was ________ and it made me feel _______.
-College should be free for everyone.
-If I could live anywhere in the world I would live in _______ because _________.
-It’s nice to be important, but it’s more important to be nice.
-An invention that the world desperately needs is _____________.
-How you dress is important because it helps people form an opinion of you.
-If I could download one skill instantly it would be _____________.
-High school students should be able to write reviews for their teachers.
-The emoji that best represents my personality is the __________.
-If you fail to prepare, you’re prepared to fail.
+Social Entrepreneurship Exercise 
 
-Instructor Notes: Instructor should keep time and stop youth at the one minute mark. After everyone speaks on their topic hold a discussion around the different challenges that youth experienced during the activity. Which public speaking techniques did they use? Was it hard for anyone to speak for a full minute? To avoid using filler words? Did many students go beyond the time limit?
+Utilize this worksheet to chart out your own entrepreneurial career. Use this diagram to answer the question, what would an entrepreneurial career look like for myself, that plays to my innate strengths, skills and passions, helps my community and puts money in my pocket? 
+
+Fill out the diagram on the back to chart your own entrepreneurial career..
+
+
+Fill out the following document with your own information
+
+
+
+
+What problem does your business solve?
+
+2. Who is the target market for the products or services you offer?
+
+3. How will your business make money?
+
+4. Now combine the four statements you came up with to identify your entrepreneurial career path. Considering your new found purpose, what are some steps you could take to bring your purpose to fruition.
+
+
