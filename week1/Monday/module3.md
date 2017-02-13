@@ -8,6 +8,8 @@ are available [here](https://cs50.harvard.edu/)
 [![Alt text](https://img.youtube.com/vi/o4SGkB_8fFs/0.jpg)](https://www.youtube.com/watch?v=o4SGkB_8fFs)
 
 Here is a playlist of short clips which cover specific topics in more depth.
+
+
 [![Alt text](https://img.youtube.com/vi/HFLczUUHWNw/0.jpg)](https://www.youtube.com/watch?v=HFLczUUHWNw)
 
 ### The khan academy has some great informational material
