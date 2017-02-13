@@ -56,7 +56,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 [1-3D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
 [1-4A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[1-4B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
+[1-4B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
 [1-4C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
 [1-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
