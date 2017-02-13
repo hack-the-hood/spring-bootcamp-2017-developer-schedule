@@ -15,12 +15,13 @@
 
 Time        | Monday     | Tuesday      | Wednesday    | Thursday
 ----        | ---------- | -----        | ----         | ----
-9:00 - 9:05 | Intro      | Intro        | Intro        | Intro
-9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
-9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
-9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
-9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
-9:05 - 9:10 | Module 1   | Module 1     | Module 1     | Module 1
+9:00 - 9:30 | Intro      | Intro        | Intro        | Intro
+9:30 - 11:00 | Module 1   | Module 1     | Module 1     | Module 1
+11:00 - 12:00 | Module 1   | Module 1     | Module 1     | Module 1
+12:00 - 1:00 | Module 1   | Module 1     | Module 1     | Module 1
+1:00 - 2:30 | Module 1   | Module 1     | Module 1     | Module 1
+2:30 - 4:00 | Module 1   | Module 1     | Module 1     | Module 1
+4:00 - 5:00 | Hour of Code | Hour of Code | Hour of Code | Hour of Code
 
 #### Your Instructors
 
@@ -34,10 +35,10 @@ Alivia (Tech Fellow)   | 10:30 - 5  | All Day      |  10:30 - 5   | All Day
 #### Week 1 - Welcome, Introduction and Onboarding
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
-**9:00AM** |[Create LinkedIn][1-1A]| [Add Personal Info][1-1B]| [The Dream (IT)][1-1C] | [Company Presence][1-1D] | 
-**10:30AM** |[Create LinkedIn][1-2A]| [Add Personal Info][1-2B]| [The Dream (IT)][1-2C] | [Company Presence][1-2D] | 
-**1:00PM** |[Create LinkedIn][1-3A]| [Add Personal Info][1-3B]| [The Dream (IT)][1-3C] | [Company Presence][1-3D] | 
-**2:30PM** |[Create LinkedIn][1-4A]| [Add Personal Info][1-4B]| [The Dream (IT)][1-4C] | [Company Presence][1-4D] | 
+**9:00AM** |[Icebreakers + Community Agreements][1-1A]| [Add Personal Info][1-1B]| [The Dream (IT)][1-1C] | [Company Presence][1-1D] | 
+**10:30AM** |[Tech Industry 101 Part-1][1-2A]| [Add Personal Info][1-2B]| [The Dream (IT)][1-2C] | [Company Presence][1-2D] | 
+**1:00PM** |[Tech Industry 101 Part-2][1-3A]| [Add Personal Info][1-3B]| [The Dream (IT)][1-3C] | [Company Presence][1-3D] | 
+**2:30PM** |[Get to know your Chromebook + G-suite][1-4A]| [Add Personal Info][1-4B]| [The Dream (IT)][1-4C] | [Company Presence][1-4D] | 
 
 [1-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
 [1-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
