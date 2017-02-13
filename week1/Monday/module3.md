@@ -5,6 +5,8 @@ welcome to the tech resource guide with information about getting started with p
 ### CS50
 CS50 is the introductory computer science course from Harvard. All of the resources from the course: lectures, notes, powerpoint slides
 are available [here](https://cs50.harvard.edu/)
+
+
 [![Alt text](https://img.youtube.com/vi/o4SGkB_8fFs/0.jpg)](https://www.youtube.com/watch?v=o4SGkB_8fFs)
 
 Here is a playlist of short clips which cover specific topics in more depth.
