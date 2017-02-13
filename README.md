@@ -38,7 +38,7 @@ Time | Monday | Tuesday | Wednesday | Thursday
 **9:00AM** |[Icebreakers + Community Agreements][1-1A]| [Add Personal Info][1-1B]| [The Dream (IT)][1-1C] | [Company Presence][1-1D] | 
 **10:30AM** |[Tech Industry 101 Part-1][1-2A]| [Add Personal Info][1-2B]| [The Dream (IT)][1-2C] | [Company Presence][1-2D] | 
 **1:00PM** |[Tech Industry 101 Part-2][1-3A]| [Add Personal Info][1-3B]| [The Dream (IT)][1-3C] | [Company Presence][1-3D] | 
-**2:30PM** |[Get to know your Chromebook + G-suite][1-4A]| [Add Personal Info][1-4B]| [The Dream (IT)][1-4C] | [Company Presence][1-4D] | 
+**2:30PM** |[Get to know your Chromebook + G-suite][1-4B] + [Intro to LinkedIn][1-4A]| [Add Personal Info][1-4B]| [The Dream (IT)][1-4C] | [Company Presence][1-4D] | 
 
 [1-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
 [1-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
