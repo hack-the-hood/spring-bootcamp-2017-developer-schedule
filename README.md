@@ -42,11 +42,11 @@ Time | Monday | Tuesday | Wednesday | Thursday
 
 [1-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
 [1-1B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
-[1-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
-[1-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
+[1-1C]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md 
+[1-1D]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
 
-[1-2A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[1-2B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
+[1-2A]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
+[1-2B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
 [1-2C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
 [1-2D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 [1-2E]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
