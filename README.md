@@ -35,30 +35,30 @@ Alivia (Tech Fellow)   | 10:30 - 5  | All Day      |  10:30 - 5   | All Day
 #### Week 1 - Welcome, Introduction and Onboarding
 Time | Monday | Tuesday | Wednesday | Thursday                                    
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | --------------------------------
-**9:00AM** |[Icebreakers + Community Agreements row 1][1-1A]| [G-Calendar row 1 section 2][2-1A]| [The Dream (IT)][3-1A] | [Company Presence][4-1A] | 
-**10:30AM** |[Tech Industry 101 Part-1 row 2][1-1A] + [Lunch Tech Resources][1-1B]| [Brand You][2-1B]| [The Dream (IT)][3-1B] | [Company Presence][1-2D] | 
-**1:00PM** |[Tech Industry 101 Part-2 row 3][1-3A]| [Intro to Web Design][2-1C]| [The Dream (IT)][3-1C] | [Company Presence][1-3D] | 
-**2:30PM** |[Get to know your Chromebook + G-suite row 4][1-4B] + [Intro to LinkedIn][1-1A]| [Intro UX-Design][1-4B]| [The Dream (IT)][3-1D] | [Company Presence][1-4D] | 
+**9:00AM** |[Icebreakers + Community Agreements][1-1A]| [G-Calendar][1-1B]| [Resume Building][1-1C] | [Company Presence][1-1D] | 
+**10:30AM** |[Tech Industry 101 Part-1][1-2A] + [Lunch Tech Resources][1-2B]| [Brand You][1-2C]| [Building Your brand online][1-2D] | [][1-2E]| 
+**1:00PM** |[Tech Industry 101 Part-2][1-3A]| [Intro to Web Design][1-3B]| [HTML + CSS Under the hood][1-3C] | [Build Resume Site][1-3D] | 
+**2:30PM** |[Get to know your Chromebook + G-suite row 4][1-4A] + [Intro to LinkedIn][1-4B]| [LinkedIn][1-4C]| [The Dream (IT)][1-4D] | [Build Resume Site][1-4E] | 
 
 [1-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[1-1B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module3.md
+[1-1B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
 [1-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
 [1-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
-[2-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[2-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
-[2-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
-[2-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
+[1-2A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
+[1-2B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
+[1-2C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
+[1-2D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
-[3-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[3-1B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
-[3-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
-[3-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
+[1-3A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
+[1-3B]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md
+[1-3C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
+[1-3D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
-[4-1A]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module1.md
-[4-1B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
-[4-1C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module3.md 
-[4-1D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
+[1-4A]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
+[1-4B]: https://github.com/hack-the-hood/spring-bootcamp-2017-developer-schedule/blob/master/week1/Monday/module2.md
+[1-4C]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module2.md 
+[1-4D]: https://github.com/hack-the-hood/LinkedIn-workshop/blob/master/week1/module4.md
 
 #### Week 2 — An Introduction to HTML / CSS
 Time | Monday | Tuesday | Wednesday | Thursday                                    
